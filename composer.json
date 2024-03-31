@@ -1,0 +1,16 @@
+{
+    "name": "julia-zhigareva/otus-composer-package",
+    "description": "string service",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "JuliaZhigareva\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julia Zhigareva"
+        }
+    ],
+    "require": {}
+}
